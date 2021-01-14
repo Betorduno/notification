@@ -1,4 +1,4 @@
-noaNotifications([2, 3, 4, 2, 3, 6, 8, 4, 5], 5)
+noaNotifications([4, 2, 5, 4, 4, 6, 8, 4, 2], 6)
 
 function noaNotifications (expenditure, d) {
     let n = 0;
