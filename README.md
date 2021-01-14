@@ -1,6 +1,6 @@
 # notification
 
-## Run script
+### Run script
 ```
 node notification
 ```
