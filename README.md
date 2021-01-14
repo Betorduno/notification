@@ -1,5 +1,7 @@
 # notification
 
 ## Run script
-
-node notification 
+```
+node notification
+```
+ 
