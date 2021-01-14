@@ -1,4 +1,4 @@
-# notification
+# Notification
 
 ### Run script
 ```
